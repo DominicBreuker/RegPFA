@@ -1,0 +1,6 @@
+/.idea
+/lib
+/target
+/tmp
+petrify.log
+*.iml
